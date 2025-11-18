@@ -221,5 +221,5 @@ const projectStructure = {
 </div>
 
 <p align="right">
-  <small>Last Updated: December 2024</small>
+  <small>Last Updated: November 2025</small>
 </p>
