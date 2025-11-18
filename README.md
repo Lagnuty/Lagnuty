@@ -183,7 +183,6 @@ const projectStructure = {
 ---
 
 ### 📈 Статистика GitHub
-**_Примечание: Замените `Lagnuty` на ваш никнейм GitHub в ссылках ниже._**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lagnuty&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
   <br>
