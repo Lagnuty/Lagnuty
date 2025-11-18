@@ -183,11 +183,11 @@ src/
 ---
 
 ### 📈 Статистика GitHub
-**_Примечание: Замените `yourusername` на ваш никнейм GitHub в ссылках ниже._**
+**_Примечание: Замените `Lagnuty` на ваш никнейм GitHub в ссылках ниже._**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lagnuty&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagnuty&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
@@ -203,10 +203,10 @@ src/
 ### 📫 Контакты
 <div align="center">
   <p>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/Lagnuty">
       <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
     </a>
-    <a href="https://t.me/yourusername">
+    <a href="https://t.me/Lagnuty">
       <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>
     <a href="mailto:your-email@example.com">
