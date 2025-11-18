@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Innovative+Full-Stack+Solutions" alt="Banner" style="width:100%;"/>
-  <h1>Артем Ковалев</h1>
+  <h1>Ян Собесский</h1>
   <h3>Студент МПТ | Full-Stack Developer</h3>
   
   <p>
@@ -22,7 +22,7 @@
 
 ```typescript
 const developer = {
-  name: "Артем Ковалев",
+  name: "Ян Собесский",
   role: "Full-Stack Developer",
   education: "Московский Приборостроительный Техникум",
   focus: ["Веб-разработка", "Автоматизация", "Базы данных"],
