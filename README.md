@@ -36,34 +36,6 @@ const developer = {
 ### 🏆 Проекты
 
 <details>
-<summary><strong>🌐 Веб-портал "Сбор Решателей"</strong> - Многопользовательская платформа для академических услуг</summary>
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
-</p>
-
-**🔧 Технологии:** Next.js 15, TypeScript, Tailwind CSS, ShadCN/UI, React 18
-
-**🎯 Ключевые особенности:**
-- ✅ Сложная ролевая модель (4 типа пользователей)
-- ✅ Динамические темы для разных ролей
-- ✅ Современная архитектура App Router
-- ✅ Полностью типизированный код
-
-```typescript
-// Пример архитектуры проекта
-const projectStructure = {
-  roles: ["Покупатель", "Решатель", "Администратор", "Поддержка"],
-  features: ["Панели управления", "Финансовые операции", "Модерация"],
-  future: ["База данных", "NextAuth", "AI интеграции"]
-};
-```
-</details>
-
-<details>
 <summary><strong>⌨️ AutoTyper Pro</strong> - Профессиональный инструмент автоматизации ввода текста</summary>
 <br>
 
@@ -148,6 +120,34 @@ src/
 - 🐳 Docker контейнеризация
 </details>
 
+<details>
+<summary><strong>🌐 Веб-портал "Сбор Решателей"</strong> - Многопользовательская платформа для академических услуг</summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
+</p>
+
+**🔧 Технологии:** Next.js 15, TypeScript, Tailwind CSS, ShadCN/UI, React 18
+
+**🎯 Ключевые особенности:**
+- ✅ Сложная ролевая модель (4 типа пользователей)
+- ✅ Динамические темы для разных ролей
+- ✅ Современная архитектура App Router
+- ✅ Полностью типизированный код
+
+```typescript
+// Пример архитектуры проекта
+const projectStructure = {
+  roles: ["Покупатель", "Решатель", "Администратор", "Поддержка"],
+  features: ["Панели управления", "Финансовые операции", "Модерация"],
+  future: ["База данных", "NextAuth", "AI интеграции"]
+};
+```
+</details>
+
 ---
 
 ### 🛠️ Технологический стек
@@ -209,7 +209,7 @@ src/
     <a href="https://t.me/Lagnuty">
       <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:lagnuty@gmail.com">
       <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" alt="Email">
     </a>
   </p>
