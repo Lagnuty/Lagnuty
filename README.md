@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Innovative+Full-Stack+Solutions](https://avatars.githubusercontent.com/u/72800713?v=4)" alt="Banner" style="width:100%;"/>
+  <img src="https://avatars.githubusercontent.com/u/72800713?v=4" alt="Banner" style="width:10%;"/>
   <h1>Ян Собесский</h1>
   <h3>Студент МПТ | Full-Stack Developer</h3>
   
