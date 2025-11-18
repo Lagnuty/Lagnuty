@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/your-linkedin-profile">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:lagnuty@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
     </a>
   </p>
