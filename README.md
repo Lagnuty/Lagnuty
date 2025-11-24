@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/72800713?v=4" alt="Banner" style="width:10%;"/>
-  <h1>Ян Собесский</h1>
+  <h1>Ян</h1>
   <h3>Студент МПТ | Full-Stack Developer</h3>
   
   <p>
