@@ -22,7 +22,7 @@
 
 ```typescript
 const developer = {
-  name: "Ян Собесский",
+  name: "Ян ",
   role: "Full-Stack Developer",
   education: "Московский Приборостроительный Техникум",
   focus: ["Веб-разработка", "Автоматизация", "Базы данных"],
